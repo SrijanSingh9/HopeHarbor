@@ -64,9 +64,9 @@ Share your knowledge through following google form , paint the world with genero
 ## Contribution Guidelines
 
 While the code is being prepared for upload, you can contribute by sharing your knowledge through our Google Form:
+
  [Hope Harbor Google Form](https://forms.gle/dDyuXUagjQuG1SdX8)
 
-Just be polite and touching. Your contribution, big or small, helps paint the world with generosity.
 
 ## Thank You
 
