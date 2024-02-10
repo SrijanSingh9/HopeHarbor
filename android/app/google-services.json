@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "963708835540",
+    "project_id": "hopeharbor",
+    "storage_bucket": "hopeharbor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963708835540:android:91becbb15945a2a5954d41",
+        "android_client_info": {
+          "package_name": "com.example.hope_harbor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Uc_XDBvwpVAmqsm2JALJj8pXnNCZS3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
