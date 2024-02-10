@@ -13,3 +13,8 @@ If you're inspired by our mission and want to lend a hand, we invite you to join
 [Join the Mission](https://forms.gle/dDyuXUagjQuG1SdX8)
 
 Your support and collaboration will help us bring hope and kindness to those in need. Together, we can make a difference! 🌍✨
+
+## How you can try the thing:
+
+Just follow the link :
+[https://hopeharbor.web.app/](https://hopeharbor.web.app/)
